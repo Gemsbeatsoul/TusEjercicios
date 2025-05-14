@@ -34,16 +34,6 @@ FEATURES:
 
 
 
-CS50P REQUERIMENTS
-
-- Python Implementation: The entire project is developed in Python, using standard libraries and Streamlit for the user interface.
-- Functions: The project.py file contains a main function main() and several additional functions (cargar_preguntas, guardar_preguntas, generar_codigo_sesion, agregar_pregunta, obtener_pregunta_aleatoria, verificar_respuesta).
-- Testing with pytest: Tests have been implemented for at least three custom functions in the test_project.py file, using the pytest framework.
-- Project Structure: The main file project.py and the test file test_project.py are located in the project's root directory, fulfilling the course specifications.
-- requirements.txt: Includes all necessary dependencies for running the application, facilitating installation and execution.
-
-
-
 DESIGN AND TECHNICAL DECISIONS
 
 === 1. File Structure and Data Storage: ===
